@@ -1,3 +1,4 @@
+'''Add the values of the list using lambda '''
 # from functools import reduce
 
 # sum_list = lambda lst: reduce(lambda x, y: x + y, lst)

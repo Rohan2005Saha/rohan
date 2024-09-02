@@ -1,3 +1,4 @@
+'''Sum of 1st 25 natural nos '''
 def running_sum(n):
 
     if n == 1:

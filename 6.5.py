@@ -1,3 +1,4 @@
+'''Add 3 nos using lambda '''
 add_three_numbers = lambda a, b, c: a + b + c
 
 num1 = int(input("Enter 1st no :"))
